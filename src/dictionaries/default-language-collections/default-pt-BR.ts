@@ -1,6 +1,12 @@
 export const ptBR = {
-    site: {
-        name: 'piloto',
-        description: 'pt-BR',
-    }
-}
+  navbar: {
+    lang: {
+      op1: "Português",
+      op2: "Inglês",
+    },
+  },
+  site: {
+    name: "Piloto",
+    description: "Descrição em Português",
+  },
+};
